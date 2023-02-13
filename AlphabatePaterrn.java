@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q1 . Write a program to print alphabets A,B ,C,D,E,F,G,H using pattern programming logic?
 public class AlphabatePaterrn {
     public static void main(String args[]) {
 

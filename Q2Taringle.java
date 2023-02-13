@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q2 . Write a program to print triangle usint star pattern logic ?
 public class Q2Taringle {
 
 
